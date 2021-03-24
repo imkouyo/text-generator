@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import re
+
+
+    def matched(template, string):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9474#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 14 Mar 2021 03:17:12 UTC
+record: -1

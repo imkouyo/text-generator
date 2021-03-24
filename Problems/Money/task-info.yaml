@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    transactions = [(38177, 34.38), (876, 999.99), (654276, 653678), (54366, 0.99),
+                    (546, 987.65), (876, 3456), (654276, 0.55), (38177, 876.75), (876, 98.7)]
+
+    # create transaction_dict
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7995#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 22 Mar 2021 02:36:16 UTC
+record: -1
